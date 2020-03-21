@@ -11,7 +11,7 @@ public class Task40 {
 	// 2 9 4
 
 	public static void main(String[] args) {
-		int n = 3;
+		int n = 3; // works with odd numbers only 
 
 	    int[][] magic = new int[n][n];
 	       
